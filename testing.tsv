@@ -1,0 +1,10 @@
+transaction_id	transcation_id_count	team	type	note	type_cd	team_id	orig_asset	trans_date	trans_date_cd	effective_date	orig_asset_type	player	name_sort	player_id	name_display_first_last	name_display_last_first	resolution_cd	resolution_date	from_team	from_team_id	conditional_sw
+252931	1	Houston Astros	Assigned	Houston Astros invited non-roster SS Alex Bregman to spring training.	ASG	117	Player	42370	D	42370	PL	Alex Bregman	BREGMAN, ALEX	608324	Alex Bregman	Bregman, Alex	FIN	42370			
+252945	1	Houston Astros	Assigned	Houston Astros invited non-roster RHP Brady Rodgers to spring training.	ASG	117	Player	42370	D	42370	PL		RODGERS, BRADY	572086	Brady Rodgers	Rodgers, Brady	FIN	42370			
+252937	1	Houston Astros	Assigned	Houston Astros invited non-roster RHP James Hoyt to spring training.	ASG	117	Player	42370	D	42370	PL	James Hoyt	HOYT, JAMES	624586	James Hoyt	Hoyt, James	FIN	42370			
+252943	1	Houston Astros	Assigned	Houston Astros invited non-roster C Roberto Pena to spring training.	ASG	117	Player	42370	D	42370	PL	Roberto Pena	PENA, ROBERTO	592629	Roberto Pena	Pena, Roberto	FIN	42370			
+252942	1	Houston Astros	Assigned	Houston Astros invited non-roster 3B Colin Moran to spring training.	ASG	117	Player	42370	D	42370	PL	Colin Moran	MORAN, COLIN	592567	Colin Moran	Moran, Colin	FIN	42370			
+252932	1	Houston Astros	Assigned	Houston Astros invited non-roster RHP Jake Buchanan to spring training.	ASG	117	Player	42370	D	42370	PL	Jake Buchanan	BUCHANAN, JAKE	594772	Jake Buchanan	Buchanan, Jake	FIN	42370			
+252933	1	Houston Astros	Assigned	Houston Astros invited non-roster 3B J.D. Davis to spring training.	ASG	117	Player	42370	D	42370	PL	J.D. Davis	DAVIS, J.D.	605204	J.D. Davis	Davis, J.D.	FIN	42370			
+252935	1	Houston Astros	Assigned	Houston Astros invited non-roster LF Derek Fisher to spring training.	ASG	117	Player	42370	D	42370	PL	Derek Fisher	FISHER, DEREK	605233	Derek Fisher	Fisher, Derek	FIN	42370			
+252946	1	Houston Astros	Assigned	Houston Astros invited non-roster 2B Joe Sclafani to spring training.	ASG	117	Player	42370	D	42370	PL	Joe Sclafani	SCLAFANI, JOE	623159	Joe Sclafani	Sclafani, Joe	FIN	42370			

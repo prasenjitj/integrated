@@ -55,7 +55,8 @@ def nhlThali(str1,str2):
 		new_date=datetime.datetime.strptime(new_date,'%B %d, %Y')
 		new_date= datetime.datetime.strftime(new_date,'%Y-%m-%d')
 		j['date']=new_date
-		#print new_date
+		new_date = re.sub(r'-','',new_date)
+
 		if j['tag'] not in mapping.keys():
 			new_tags.add(j['tag'])
 
@@ -63,7 +64,7 @@ def nhlThali(str1,str2):
 		    if j['tag'] == k:
 		        tag=v
 		        j['tag'] = tag
-		ex_id = j['url']+'#'+j['Transaction']
+		ex_id = new_date+'#'+j['Transaction']
 		#print  ex_id
 		description = '*Find or create each transaction and curate as per guidelines* Transaction: '+j['Transaction']+' # Date: '+j['date']+' # URL: '+j['url']
 		task_type = '/common/topic'
